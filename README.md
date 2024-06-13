@@ -1,0 +1,1 @@
+# Associate-a-public-IP-address-to-a-virtual-machine
